@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">PermissionKit</string>
+    <string name="cancel">取消</string>
+    <string name="ok">确认</string>
+    <string name="rationale">为了更好的使用体验，APP需要%1$s权限</string>
+    <string name="setting_tip">您已关闭了%1$s权限，为了保证功能的正常使用，请前往系统设置页面开启</string>
+    <string name="go_to_grant_permission">去开启</string>
+    <string name="popup_window_permission_tips">请先授予悬浮窗权限</string>
+    <string name="tips_location_closed">定位服务已关闭</string>
+    <string name="tips_open_location">需要在设置中打开定位服务后才能使用</string>
+    <string name="tips_setting_location">去设置</string>
+    <string name="failed_to_locate">定位失败，请检查定位权限</string>
+    <string name="and">和</string>
+    <string name="permission_calendar">日历</string>
+    <string name="permission_camera">相机</string>
+    <string name="permission_contacts">联系人</string>
+    <string name="permission_location">定位</string>
+    <string name="permission_microphone">麦克风</string>
+    <string name="permission_phone">打电话</string>
+    <string name="permission_sensors">传感器</string>
+    <string name="permission_sms">短信</string>
+    <string name="permission_storage">数据读写</string>
+    <string name="permission_window">悬浮窗</string>
+</resources>
